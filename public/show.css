@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  color: orange;
+}
+.first_div {
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  display: flex;
+  border: 2px solid black;
+}
